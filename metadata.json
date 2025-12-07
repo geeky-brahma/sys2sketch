@@ -1,0 +1,5 @@
+{
+  "name": "Sketch2Sys",
+  "description": "Transform hand-drawn system design sketches into clean Mermaid diagrams and tech stack recommendations using Gemini Vision.",
+  "requestFramePermissions": []
+}
